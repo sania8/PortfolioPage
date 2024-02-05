@@ -30,7 +30,7 @@ This project is licensed under the [MIT License](LICENSE), allowing you to use a
 
 ## 📧 Contact
 
-📧 You can reach out to me at [your.email@example.com](mailto:your.email@example.com) for any inquiries or collaborations.
+📧 You can reach out to me at(saniv2711@gmail.com) for any inquiries or collaborations.
 
 ---
 
