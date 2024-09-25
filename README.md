@@ -22,7 +22,7 @@ Welcome to website portfolio repository! This project showcases my skills, proje
 
 ## 🤝 Contributing
 
-Contributions, feedback, and suggestions are welcome! Feel free to open an issue or submit a pull request if you have any improvements or ideas to share.
+Contributions, feedback, and suggestions are welcome! Feel free to open an issue or submit a pull request if you have any improvements or ideas to share. Feel free to ask your queries 
 
 ## 📝 License
 
